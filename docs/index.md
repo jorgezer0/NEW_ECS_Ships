@@ -4,6 +4,8 @@ layout: default
 
 YadaYada blau blau!
 
+[![ECS Ships](https://img.youtube.com/vi/ZPivhePQNvA/0.jpg)](https://www.youtube.com/watch?v=ZPivhePQNvA)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
